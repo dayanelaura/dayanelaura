@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 -->
 
 <h1> Hello there✨ </h1>
-<p>Nice to see you!👋</br> I'm Dayane, Fullstack developer, currently living in <b>Natal, Brazil🇧🇷</b> </br> Welcome to my page! 😄</p>
+<p>Nice to see you!👋</br> I'm Dayane, Fullstack developer, currently living in <b>Natal, Brazil🇧🇷</b> </br> Welcome to my page!🎉</p>
 
-<h3>Some Quick Facts⚡ </h3>
+<h3>Some Quick Facts ⚡ </h3>
 <ul>
 <li> I've already visited <del>almost</del> all the coffee shops in my city ☕ </li>
 <li> My "comfort series" is: Friends 💜</li>
@@ -27,11 +27,11 @@ Here are some ideas to get you started:
   ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
   ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white) 
 </li>
-<li> My first degree was not directly related to programming, but it was still in engineering (environmental engineering, by the way...) because I've always been motivated by problem-solving! 📈</li>
+<li> My first degree was not directly related to programming, but it was still in engineering (environmental engineering, by the way) because I've always been motivated by problem-solving! 📈</li>
 <li> 💬 Feel free to ask me anything. If I don't know, I'll research, and we can discover it together! 😄</li>
 </ul>
 
-<h3>Things I code with</h3>
+<h3>Things I code with ⚙️ </h3>
 
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
   ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -66,7 +66,7 @@ Here are some ideas to get you started:
     <img src="https://github-readme-stats.vercel.app/api?username=dayanelaura&theme=midnight-purple&show_icons=true" alt="gitstats" />
 </details>
 
-<h3>Where to find me</h3>
+<h3>Where to find me 🔎</h3>
 <p>
   <a href = "mailto:dayanelaura3@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://web.telegram.org/k/#@dayalaura" target="_blank"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
