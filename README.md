@@ -28,7 +28,7 @@ Here are some ideas to get you started:
   ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white) 
 </li>
 <li> My first degree was not directly related to programming, but it was still in engineering (environmental engineering, by the way) because I've always been motivated by problem-solving! 📈</li>
-<li> 💬 Feel free to ask me anything. If I don't know, I'll research, and we can discover it together! 😄</li>
+<li> 💬 Feel free to ask me anything. If I don't know, I'll research, and we can discover it together! 😊</li>
 </ul>
 
 <h3>Things I code with ⚙️ </h3>
